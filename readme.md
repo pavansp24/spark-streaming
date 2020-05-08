@@ -10,4 +10,6 @@ Streaming application uses spark sql to do the analysis and developers can use i
 
 More can be done by publishing the metrics to cassandra or any db and running apache super set for Business Interlligence.
 
+To see the spark job and streaming metrics, can access spark history server on http://localhost:4040
+
 https://superset.incubator.apache.org/
